@@ -1,5 +1,6 @@
 .red-text{
     color: red;
+    background-color: antiquewhite;
 }
 #img{
     border: 5px solid black;
@@ -11,10 +12,22 @@
 }
 #first{
    background-color: antiquewhite;
-    width: 50%;
-    margin-left: 25%;
+    width: 100%;
     margin-top: 100px;
     color: white;
     font-family: "Libre Baskerville", serif;
+    
+}
+*{
     text-align: center;
+    width: 400;
+    margin: auto;
+    background-color: black;
+    color: whitesmoke;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{
+    color: red;
 }
